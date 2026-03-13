@@ -1,10 +1,4 @@
-Since you’re planning to **sell this as a SaaS dashboard template**, the README should look **professional and product-focused**, not the default Next.js README.
 
-Below is a **clean, product-ready README** you can use for **Gumroad / GitHub / template buyers**.
-
----
-
-# Updated README.md
 
 ```md
 # DashLite – SaaS Dashboard Template
